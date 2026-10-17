@@ -17,7 +17,6 @@ The setup provided a visual representation of attack locations and magnitudes, e
   - Created custom fields and workbooks within Azure Sentinel in Log Analytics.
   - Visualized global attack data (e.g., RDP Brute Force) on a world map.
   - Mapped attack locations and magnitudes to provide a clear visual representation of global security threats.
-emented quotas for storage management.
 
 <br/>
 
